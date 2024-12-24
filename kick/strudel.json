@@ -2,5 +2,6 @@
 
 
 {
-  "dhkick" : "https://github.com/daheepvrk/samples/blob/cb966a9360d5c36e24269bbe9b0b840b25f4f12f/kick/"
+  "_base" : "https://raw.githubusercontent.com/daheepvrk/samples/main/kick/",
+  "dhkick" : ["07_Kick.wav", "19_Kick.wav", "21_Kick.wav"]
 }

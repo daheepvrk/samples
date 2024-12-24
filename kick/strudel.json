@@ -3,5 +3,5 @@
 
 {
   "_base" : "https://raw.githubusercontent.com/daheepvrk/samples/main/kick/",
-  "dhkick" : ["07_Kick.wav", "19_Kick.wav", "21_Kick.wav"]
+  "kk" : ["07_Kick.wav", "19_Kick.wav", "21_Kick.wav"]
 }
